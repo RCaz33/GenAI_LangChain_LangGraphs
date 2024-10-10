@@ -17,3 +17,4 @@ chain.invoke({"product"}:product)
 ## BDD pour stocker les embeddings
 
 il existe des bdd specialisé pour stocker des vecteurs, et la recherche dans ces bdd est optimisé pôur ces vecteurs ===> bonnes pratiques dans un boite est d'utiliser ces bdd spécialisées.
+
